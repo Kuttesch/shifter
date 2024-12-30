@@ -1,0 +1,11 @@
+{
+    "arduino.useArduinoCli": true,
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.skipHeaderProvider": false,
+    "arduino.disableIntelliSenseAutoGen": true,
+    "arduino.additionalUrls": [
+        "https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json"
+    ],
+}
